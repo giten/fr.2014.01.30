@@ -1,4 +1,5 @@
 require 'spec_helper'
+#require 'capybara'
 
 describe "StaticPages" do
   describe "Home page" do
