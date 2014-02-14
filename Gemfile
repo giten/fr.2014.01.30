@@ -54,3 +54,7 @@ end
 group :test do
   gem 'capybara'
 end
+
+gem 'spork'
+gem 'bootstrap-sass'
+
